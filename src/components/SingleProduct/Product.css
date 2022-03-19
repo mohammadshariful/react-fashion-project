@@ -1,0 +1,12 @@
+.product-img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+.shadow-box {
+  transition: 0.2s linear;
+}
+.shadow-box:hover {
+  background-color: #f5f6fa;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
